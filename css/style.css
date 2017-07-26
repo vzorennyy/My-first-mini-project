@@ -1,0 +1,58 @@
+body{
+    font-family:"Myriad Pro";
+
+    width: 1920px;
+}
+
+#wrapper{
+    width: 1840px;
+    height: 4500px;
+    margin: 57px auto;
+
+}
+
+#header{
+    height: 1120px;
+    width: 1920;
+    color:#FFFFFF;
+    background-color: #303031;
+    background-image:url(../image/top-bg.jpg) ;
+    padding:40px 40px;
+}
+.top{
+    width: 1760px;
+    height: 333px;
+    text-decoration:none;
+    font-size:30pt;
+    margin:0px auto;
+
+}
+
+.logo{
+    float:left;
+}
+
+.logoimg{
+    float: left;
+    margin-right: 21px;
+}
+
+.nav{
+    float:right;
+    margin-top:0px;
+
+}
+ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 0px 50px;
+    font-size: 18pt;
+    text-decoration: none;
+}
+
+a {
+    color:#FFFFFF;
+    text-decoration: none;
+}
+
+
