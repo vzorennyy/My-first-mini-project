@@ -1,5 +1,6 @@
+
 body{
-    font-family:"Myriad Pro";
+    font-family:"Montserra";
 
     width: 1920px;
 }
@@ -21,15 +22,19 @@ body{
 }
 .top{
     width: 1760px;
-    height: 333px;
+    height: 280px;
     text-decoration:none;
-    font-size:30pt;
+    font-size:30px;
     margin:0px auto;
 
 }
 
 .logo{
     float:left;
+    font-weight: 500;
+    line-height: 35px;
+
+
 }
 
 .logoimg{
@@ -37,22 +42,54 @@ body{
     margin-right: 21px;
 }
 
+
 .nav{
     float:right;
-    margin-top:0px;
+    margin:5px 0px 0px 0px;
 
 }
 ul li {
     list-style-type: none;
     display: inline;
-    margin: 0px 50px;
-    font-size: 18pt;
+    margin: 0px 0px 0px 45px;
+    font-size: 18px;
     text-decoration: none;
 }
+h1 {
+    font-family:"Montserrat";
+    font-size: 92px;
+    font-weight: 600;
+    margin:0;
+    text-align:center;
+    line-height:1;
 
+}
+.red{
+    color: #ED6950;
+}
+.grey{
+    color: #3C3D3D;
+    font-family:"Montserrat";
+    font-size: 18px;
+    font-weight: 400;
+    margin:0;
+    text-align: center;
+    line-height:3;
+}
+.topButton {
+    text-align: center;
+    padding-top: 30px;
+}
+.popular{
+    text-align: center;
+    font-size: 18px;
+    font-family:"Montserrat";
+    padding-top: 250px ;
+}
 a {
     color:#FFFFFF;
     text-decoration: none;
+    font-family:"Montserrat";
 }
 
 
